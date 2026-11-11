@@ -55,6 +55,5 @@ public class HumanPlayer extends Player {
             message="Hai perso, ma non abbatterti.\n"+
                     "La prossima volta andrà sicuramente meglio!";
         userInterface.showResult(message);
-    }
-    
+    }    
 }
