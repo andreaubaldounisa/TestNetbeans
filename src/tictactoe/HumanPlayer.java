@@ -17,6 +17,7 @@ public class HumanPlayer extends Player {
     public HumanPlayer(int symbol, UserInterface userInterface) {
         super(symbol);
         this.userInterface=userInterface;
+        System.out.println("Salve");
     }
  
     
